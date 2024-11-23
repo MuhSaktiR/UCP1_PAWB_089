@@ -62,3 +62,14 @@ Database Pupuk
 
 ![Screenshot 2024-11-23 221637](https://github.com/user-attachments/assets/4cb4fdac-6f29-4b06-b7d9-c3ef7b55b58a)
 
+Update Pupuk
+
+![Screenshot 2024-11-23 222520](https://github.com/user-attachments/assets/41534cea-055c-476a-808b-96c3a29f0eb3)
+
+![Screenshot 2024-11-23 222617](https://github.com/user-attachments/assets/ba5a4281-b07a-4c54-97be-8aabf113243e)
+
+Database Pupuk
+
+![Screenshot 2024-11-23 222635](https://github.com/user-attachments/assets/6e200d8e-3d71-451c-a26c-043a84a2b395)
+
+
