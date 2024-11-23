@@ -12,8 +12,8 @@ module.exports = {
             if (err) throw err;
             connection.query('SELECT * FROM bibit;', function (error, results) {
                 if (error) throw error;
-                res.render('kelola_bibit', {
-                    bibits: results
+                res.render('bibit', {
+                    bibit: results
                 });
             });
             connection.release();

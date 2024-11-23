@@ -12,8 +12,8 @@ module.exports = {
             if (err) throw err;
             connection.query('SELECT * FROM pupuk;', function (error, results) {
                 if (error) throw error;
-                res.render('kelola_pupuk', {
-                    pupuks: results
+                res.render('pupuk', {
+                    pupuk: results
                 });
             });
             connection.release();

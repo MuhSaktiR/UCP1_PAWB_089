@@ -52,9 +52,9 @@
   </form>
 
   <ul>
-    <% data.forEach(item => { %>
+    <% bibit.forEach(item => { %>
       <li>
-        <%= item.nama %> (<%= item.jenis %> - harga: <%= item.harga %>)
+        <%= item.nama %> ( <%= item.jenis %> ) - harga: <%= item.harga %>
         
         <a href="/bibit/delete/<%= item.id %>">Hapus</a>
         

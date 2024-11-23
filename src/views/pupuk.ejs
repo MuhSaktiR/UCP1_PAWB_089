@@ -52,9 +52,9 @@
   </form>
   
   <ul>
-    <% data.forEach(item => { %>
+    <% pupuk.forEach(item => { %>
       <li>
-        <%= item.nama %> (<%= item.jenis %> - harga: <%= item.harga %>)
+        <%= item.nama %> ( <%= item.jenis %> ) - harga: <%= item.harga %>
         <a href="/pupuk/delete/<%= item.id %>">Hapus</a>
 
         <form action="/pupuk/update/<%= item.id %>" method="POST" style="display: inline;">
